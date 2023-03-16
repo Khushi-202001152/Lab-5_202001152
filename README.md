@@ -1,4 +1,4 @@
-# Static Analysis Tool
+# Static Analysis Tool : MYPY
 
 Github repository link: https://github.com/google-research/python-graphs
 
